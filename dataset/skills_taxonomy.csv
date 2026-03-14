@@ -1,0 +1,215 @@
+skill_id,skill_name,category,subcategory
+1,Data analysis,data,analytics
+2,Data visualization,data,analytics
+3,Statistical analysis,data,analytics
+4,SQL,data,databases
+5,Python programming,data,programming
+6,R programming,data,programming
+7,Big data analytics,data,analytics
+8,Data mining,data,analytics
+9,Data cleaning,data,analytics
+10,Data modeling,data,analytics
+11,ETL processes,data,data-engineering
+12,Business intelligence,data,analytics
+13,Tableau,data,visualization
+14,Power BI,data,visualization
+15,Excel advanced,data,analytics
+16,Predictive analytics,data,analytics
+17,A/B testing,data,analytics
+18,Data storytelling,data,communication
+19,Data governance,data,management
+20,Data quality management,data,management
+
+21,Artificial intelligence,ai,ai-core
+22,Machine learning,ai,ai-core
+23,Deep learning,ai,ai-core
+24,Natural language processing,ai,ai-nlp
+25,Computer vision,ai,ai-vision
+26,Reinforcement learning,ai,ai-core
+27,AI model deployment,ai,ai-engineering
+28,AI model evaluation,ai,ai-engineering
+29,Prompt engineering,ai,ai-generative
+30,Generative AI,ai,ai-generative
+
+31,Python programming,software,programming
+32,Java programming,software,programming
+33,JavaScript programming,software,programming
+34,C++ programming,software,programming
+35,C# programming,software,programming
+36,Go programming,software,programming
+37,Rust programming,software,programming
+38,Swift programming,software,programming
+39,Kotlin programming,software,programming
+40,TypeScript programming,software,programming
+41,Software architecture,software,architecture
+42,Microservices architecture,software,architecture
+43,API design,software,backend
+44,REST APIs,software,backend
+45,GraphQL,software,backend
+46,Git version control,software,tools
+47,Unit testing,software,testing
+48,Integration testing,software,testing
+49,Continuous integration,software,devops
+50,Continuous deployment,software,devops
+
+51,Cloud computing,cloud,cloud-core
+52,AWS cloud services,cloud,aws
+53,Azure cloud services,cloud,azure
+54,Google cloud platform,cloud,gcp
+55,Docker containers,cloud,containers
+56,Kubernetes orchestration,cloud,containers
+57,Serverless architecture,cloud,architecture
+58,Cloud security,cloud,security
+59,Cloud networking,cloud,network
+60,Cloud cost optimization,cloud,management
+
+61,Cybersecurity fundamentals,security,security-core
+62,Network security,security,network
+63,Ethical hacking,security,offensive
+64,Penetration testing,security,offensive
+65,Security incident response,security,defensive
+66,Identity access management,security,iam
+67,Security risk assessment,security,risk
+68,Application security,security,software-security
+69,Cryptography,security,security-core
+70,Threat intelligence,security,defensive
+
+71,Digital marketing,marketing,marketing-core
+72,Search engine optimization,marketing,seo
+73,Search engine marketing,marketing,sem
+74,Content marketing,marketing,content
+75,Email marketing,marketing,email
+76,Social media marketing,marketing,social
+77,Affiliate marketing,marketing,performance
+78,Marketing analytics,marketing,analytics
+79,Conversion rate optimization,marketing,analytics
+80,Customer journey mapping,marketing,strategy
+81,Brand management,marketing,branding
+82,Advertising strategy,marketing,advertising
+83,Influencer marketing,marketing,social
+84,Copywriting,marketing,content
+85,Marketing automation,marketing,automation
+86,CRM management,marketing,crm
+87,Customer segmentation,marketing,analytics
+88,Marketing campaign management,marketing,management
+89,Lead generation,marketing,performance
+90,Sales funnel optimization,marketing,strategy
+
+91,Financial analysis,finance,analysis
+92,Budget planning,finance,planning
+93,Cost accounting,finance,accounting
+94,Corporate finance,finance,corporate
+95,Financial forecasting,finance,analysis
+96,Investment analysis,finance,investment
+97,Risk management,finance,risk
+98,Financial reporting,finance,reporting
+99,Tax compliance,finance,tax
+100,Auditing,finance,audit
+
+101,Project management,management,project
+102,Agile methodology,management,agile
+103,Scrum framework,management,agile
+104,Kanban management,management,agile
+105,Lean management,management,operations
+106,Strategic planning,management,strategy
+107,Operations management,management,operations
+108,Performance management,management,hr
+109,Stakeholder management,management,project
+110,Change management,management,strategy
+111,Program management,management,project
+112,Product management,management,product
+113,Risk assessment,management,risk
+114,Process optimization,management,operations
+115,Business process management,management,operations
+116,Quality management,management,quality
+117,Supply chain management,management,operations
+118,Resource planning,management,planning
+119,Decision analysis,management,strategy
+120,Organizational development,management,hr
+
+121,Leadership,soft,interpersonal
+122,Communication,soft,interpersonal
+123,Public speaking,soft,communication
+124,Negotiation,soft,interpersonal
+125,Conflict resolution,soft,interpersonal
+126,Team collaboration,soft,teamwork
+127,Emotional intelligence,soft,interpersonal
+128,Critical thinking,soft,cognitive
+129,Problem solving,soft,cognitive
+130,Decision making,soft,cognitive
+131,Time management,soft,productivity
+132,Adaptability,soft,cognitive
+133,Creativity,soft,cognitive
+134,Innovation thinking,soft,cognitive
+135,Analytical thinking,soft,cognitive
+136,Resilience,soft,personal
+137,Stress management,soft,personal
+138,Self motivation,soft,personal
+139,Active listening,soft,communication
+140,Interpersonal communication,soft,communication
+
+141,UX design,design,ux
+142,UI design,design,ui
+143,Interaction design,design,ux
+144,User research,design,ux
+145,Usability testing,design,ux
+146,Wireframing,design,ux
+147,Prototyping,design,ux
+148,Design systems,design,ui
+149,Graphic design,design,visual
+150,Motion design,design,visual
+
+151,Product strategy,business,strategy
+152,Business strategy,business,strategy
+153,Market research,business,analysis
+154,Competitive analysis,business,analysis
+155,Business development,business,growth
+156,Customer success,business,customer
+157,Sales strategy,business,sales
+158,Account management,business,sales
+159,Partnership management,business,growth
+160,Revenue management,business,finance
+
+161,English proficiency,language,communication
+162,Spanish proficiency,language,communication
+163,French proficiency,language,communication
+164,German proficiency,language,communication
+165,Technical writing,language,writing
+166,Business writing,language,writing
+167,Presentation writing,language,writing
+168,Editing skills,language,writing
+169,Translation skills,language,translation
+170,Localization skills,language,translation
+
+171,Blockchain fundamentals,technology,blockchain
+172,Smart contracts,technology,blockchain
+173,Internet of things,technology,iot
+174,Embedded systems,technology,iot
+175,Robotics engineering,technology,robotics
+176,Edge computing,technology,cloud
+177,Augmented reality,technology,ar
+178,Virtual reality,technology,vr
+179,Digital twins,technology,simulation
+180,Automation systems,technology,automation
+
+181,Talent acquisition,hr,recruitment
+182,Employee engagement,hr,management
+183,Performance appraisal,hr,management
+184,Training development,hr,learning
+185,Workforce planning,hr,strategy
+186,Compensation benefits,hr,management
+187,HR analytics,hr,analytics
+188,Employee relations,hr,management
+189,Diversity inclusion,hr,strategy
+190,Organizational culture,hr,strategy
+
+191,Customer service,service,customer
+192,Customer support,service,customer
+193,Service design,service,design
+194,Client relationship management,service,customer
+195,Complaint handling,service,customer
+196,Technical support,service,technical
+197,Help desk management,service,technical
+198,Service operations,service,operations
+199,Customer satisfaction analysis,service,analytics
+200,Service quality management,service,quality

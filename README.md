@@ -1,13 +1,19 @@
-# skills-gap-dataset
-Dataset conceptual de habilidades profesionales, brechas de habilidades y relación con ocupaciones del mercado laboral.
+# Skills Gap Dataset
 
-## Related Research
+Open dataset for analyzing professional skills, skill gaps and labor market occupations.
 
-This dataset is related to the research:
+## Dataset components
 
-Análisis de Brechas de Habilidades y Transformación del Trabajo
+- skills_taxonomy.csv
+- occupations_skills.csv
+- skills_gap_algorithm.md
 
-https://www.researchgate.net/publication/401395324_Analisis_de_Brechas_de_Habilidades_y_Transformacion_del_Trabajo_Hacia_un_Modelo_Conceptual_de_Orientacion_Profesional_Basada_en_Datos_e_Inteligencia_Artificial
+## Research context
 
-Project related to:
+This dataset supports research on skills gap analysis and data-driven career guidance.
+
+Related research:
+https://www.researchgate.net/publication/401395324
+
+Project:
 https://www.skillcoach.io
